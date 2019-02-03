@@ -20,3 +20,6 @@ I learned the most popular big data technologies in this comprehensive course, t
 * Understanding Hadoop is a highly valuable skill for anyone working at companies with large amounts of data.
 
 This course was comprehensive, covering over 25 different technologies in over 14 hours of video lectures. It's filled with hands-on activities and exercises, so I could get some real experience in using Hadoop.
+
+
+![alt text](https://github.com/adheepshetty/Ultimate-Hands-on-Hadoop-Course/blob/master/Certificates/big-datacertificate.jpg)
